@@ -29,8 +29,8 @@ import org.openide.util.NbBundle.Messages;
 public final class Main implements ActionListener {
 
     /**
-     * Se crea un repositorio con el nombre indicado el un JOptionPane. Recibe
-     * el usuario y contraseña de los JOptionPane
+     * Se crea un repositorio con el nombre indicado. Recibe
+     * el usuario y contraseña por teclado.
      *
      * @param e
      */
